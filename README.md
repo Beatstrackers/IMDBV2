@@ -9,7 +9,7 @@
 [![Stars](https://img.shields.io/github/stars/MRK-YT/EvaMaria?style=flat-square&color=yellow)](https://github.com/MRK-YT/EvaMaria/stargazers)
 [![Forks](https://img.shields.io/github/forks/MRK-YT/EvaMaria?style=flat-square&color=orange)](https://github.com/MRK-YT/EvaMaria/fork)
 [![Size](https://img.shields.io/github/repo-size/MRK-YT/EvaMaria?style=flat-square&color=green)](https://github.com/MRK-YT/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/MRK-YT)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Beatstrackers/IMDBV2)   
 [![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/MRK-YT/blob/main/LICENSE)
 [![Sparkline](https://stars.medv.io/MRK-YT/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
